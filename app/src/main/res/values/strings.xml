@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KatalogKu</string>
+        <string name="list_kosong">Belum ada Katalog nih</string>
+        <string name="x_diklik">%1$s diklik!</string>
+        <string name="kembali">Kembali</string>
+        <string name="simpan">Simpan</string>
+        <string name="invalid">Data nya tidak boleh kosong ya</string>
+        <string name="lainnya">Opsi lainnya</string>
+        <string name="hapus">Hapus data katalog ini?</string>
+        <string name="pesan_hapus">Hapus katalog ini?</string>
+        <string name="tombol_hapus">Hapus</string>
+        <string name="isi_mahasiswa">Kode Barang</string>
+        <string name="tombol_batal">Batal</string>
+        <string name="list">Tampilan list</string>
+        <string name="tambah_mahasiswa">Tambah Katalog</string>
+        <string name="edit_mahasiswa">Ubah katalog</string>
+        <string name="nama">Nama Barang</string>
+        <string name="grid">Tampilan grid</string>
+    <string name="deskripsi">Deskrpsi Barang</string>
+</resources>
