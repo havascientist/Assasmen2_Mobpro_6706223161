@@ -1,20 +1,37 @@
 <resources>
     <string name="app_name">KatalogKu</string>
-        <string name="list_kosong">Belum ada Katalog nih</string>
-        <string name="x_diklik">%1$s diklik!</string>
-        <string name="kembali">Kembali</string>
-        <string name="simpan">Simpan</string>
-        <string name="invalid">Data nya tidak boleh kosong ya</string>
-        <string name="lainnya">Opsi lainnya</string>
-        <string name="hapus">Hapus data katalog ini?</string>
-        <string name="pesan_hapus">Hapus katalog ini?</string>
-        <string name="tombol_hapus">Hapus</string>
-        <string name="isi_mahasiswa">Kode Barang</string>
-        <string name="tombol_batal">Batal</string>
-        <string name="list">Tampilan list</string>
-        <string name="tambah_mahasiswa">Tambah Katalog</string>
-        <string name="edit_mahasiswa">Ubah katalog</string>
-        <string name="nama">Nama Barang</string>
-        <string name="grid">Tampilan grid</string>
-    <string name="deskripsi">Deskrpsi Barang</string>
+        <string name="list_kosong" translatable="false">Belum ada Katalog nih</string>
+        <string name="x_diklik" translatable="false">%1$s diklik!</string>
+        <string name="kembali" translatable="false">Kembali</string>
+        <string name="simpan" translatable="false">Simpan</string>
+        <string name="invalid" translatable="false">Data nya tidak boleh kosong ya</string>
+        <string name="lainnya" translatable="false">Opsi lainnya</string>
+        <string name="hapus" translatable="false">Hapus data katalog ini?</string>
+        <string name="pesan_hapus" translatable="false">Hapus katalog ini?</string>
+        <string name="tombol_hapus" translatable="false">Hapus</string>
+        <string name="isi_mahasiswa" translatable="false">Kode Barang</string>
+        <string name="tombol_batal" translatable="false">Batal</string>
+        <string name="list" translatable="false">Tampilan list</string>
+        <string name="tambah_mahasiswa" translatable="false">Tambah Katalog</string>
+        <string name="edit_mahasiswa" translatable="false">Ubah katalog</string>
+        <string name="nama" translatable="false">Nama Barang</string>
+        <string name="grid" translatable="false">Tampilan grid</string>
+    <string name="deskripsi" translatable="false">Deskrpsi Barang</string>
+    <string name="updateApp" translatable="false">Daftar Barang Diskon 2024</string>
+    <string name="selamat" translatable="false">Mari hitung jumlah harga yang Anda dapatkan setelah diskon yang kami berikan! Aplikasi kami hadir untuk memantu ada menghitung harga belanja diskon anda</string>
+    <string name="harga" translatable="false">Harga</string>
+    <string name="refresh" translatable="false">refresh</string>
+    <string name="diskon" translatable="false">Diskon</string>
+    <string name="hitung" translatable="false">Cek Harga</string>
+    <string name="harga_diskon_x" translatable="false">Harga setelah diskon: Rp %1$s</string>
+    <string name="input_invalid" translatable="false">Tidak boleh kosong</string>
+    <string name="tentang_aplikasi" translatable="false">Tentang aplikasi</string>
+    <string name="deskripsi_aplikasi" translatable="false">Aplikasi di buat untuk menghitung jumlah harga yang anda dapatkan setelah di potong dengan diskon. Aplikasi ini membantu anda untuk lebih mudah berbelanja di TRINSMART.</string>
+    <string name="bagikan" translatable="false">Bagikan</string>
+    <string name="bagikan_template" translatable="false">Harga: Rp %1$s\nDiskon: %2$s%%\n\nHarga setelah diskon: Rp %3$.2f\n</string>
+    <string name="bagikan_hasil" translatable="false">Nama: Rp %1$s\nHarga: %2$s%%\n\Jenis: Rp %3$s\n</string>
+    <string name="online" translatable="false">online\n</string>
+    <string name="offline" translatable="false">offline\n</string>
+    <string name="tambah_catatan" translatable="false">Tambah Catatan</string>
+    <string name="tambah_error" translatable="false">Belum bisa tambah catatan.</string>
 </resources>

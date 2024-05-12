@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KatalogKu</string>
+    <string name="list_kosong">Belum ada Katalog nih</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="invalid">Data nya tidak boleh kosong ya</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus data katalog ini?</string>
+    <string name="pesan_hapus">Hapus katalog ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="isi_mahasiswa">Kode Barang</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="tambah_mahasiswa">Tambah Katalog</string>
+    <string name="edit_mahasiswa">Ubah katalog</string>
+    <string name="nama">Nama Barang</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="deskripsi">Deskrpsi Barang</string>
+    <string name="updateApp">Daftar Barang Diskon 2024</string>
+    <string name="selamat">Mari hitung jumlah harga yang Anda dapatkan setelah diskon yang kami berikan! Aplikasi kami hadir untuk memantu ada menghitung harga belanja diskon anda</string>
+    <string name="harga">Harga</string>
+    <string name="refresh">refresh</string>
+    <string name="diskon">Diskon</string>
+    <string name="hitung">Cek Harga</string>
+    <string name="harga_diskon_x">Harga setelah diskon: Rp %1$s</string>
+    <string name="input_invalid">Tidak boleh kosong</string>
+    <string name="tentang_aplikasi">Tentang aplikasi</string>
+    <string name="deskripsi_aplikasi">Aplikasi di buat untuk menghitung jumlah harga yang anda dapatkan setelah di potong dengan diskon. Aplikasi ini membantu anda untuk lebih mudah berbelanja di TRINSMART.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Harga: Rp %1$s\nDiskon: %2$s%%\n\nHarga setelah diskon: Rp %3$.2f\n</string>
+    <string name="bagikan_hasil">Nama: Rp %1$s\nHarga: %2$s%%\n\Jenis: Rp %3$s\n</string>
+    <string name="online">online\n</string>
+    <string name="offline">offline\n</string>
+    <string name="tambah_catatan">Tambah Catatan</string>
+    <string name="tambah_error">Belum bisa tambah catatan.</string>
+</resources>
